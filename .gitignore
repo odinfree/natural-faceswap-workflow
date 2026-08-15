@@ -1,0 +1,24 @@
+.DS_Store
+.env
+.venv/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+
+# User-supplied or generated media never belongs in the repository.
+inputs/
+outputs/
+references/
+models/
+*.mp4
+*.mov
+*.mkv
+*.gif
+*.webp
+*.jpg
+*.jpeg
+*.png
+*.task
