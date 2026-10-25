@@ -57,7 +57,7 @@ brew install ffmpeg uv
 ## Install
 
 ```bash
-git clone https://github.com/welttowelt/natural-faceswap-workflow.git
+git clone https://github.com/odinfree/natural-faceswap-workflow.git
 cd natural-faceswap-workflow
 uv sync --extra dev
 uv run natural-faceswap download-model
